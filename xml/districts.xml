@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 5.2.0
+- https://www.phpmyadmin.net
+-
+- Host: 127.0.0.1
+- Generation Time: Sep 19, 2022 at 12:51 PM
+- Server version: 10.4.24-MariaDB
+- PHP Version: 7.4.29
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="https://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="locaiton" collation="utf8mb4_general_ci" charset="utf8mb4">
+            <pma:table name="districts">
+                CREATE TABLE `districts` (
+                  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+                  `division_id` int(10) unsigned NOT NULL,
+                  `name` varchar(255) NOT NULL,
+                  `bangla_name` varchar(255) NOT NULL,
+                  PRIMARY KEY (`id`)
+                ) ENGINE=InnoDB AUTO_INCREMENT=65 DEFAULT CHARSET=utf8mb4;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <!--
+    - Database: 'locaiton'
+    -->
+    <database name="locaiton">
+        <!-- Table districts -->
+        <table name="districts">
+            <column name="id">1</column>
+            <column name="division_id">1</column>
+            <column name="name">Dhaka</column>
+            <column name="bangla_name">ঢাকা</column>
+        </table>
+        <table name="districts">
+            <column name="id">2</column>
+            <column name="division_id">1</column>
+            <column name="name">Manikganj</column>
+            <column name="bangla_name">মানিকগঞ্জ</column>
+        </table>
+        <table name="districts">
+            <column name="id">3</column>
+            <column name="division_id">1</column>
+            <column name="name">Narsingdi</column>
+            <column name="bangla_name">নরসিংদী</column>
+        </table>
+        <table name="districts">
+            <column name="id">4</column>
+            <column name="division_id">1</column>
+            <column name="name">Gazipur</column>
+            <column name="bangla_name">গাজীপুর</column>
+        </table>
+        <table name="districts">
+            <column name="id">5</column>
+            <column name="division_id">1</column>
+            <column name="name">Shariatpur</column>
+            <column name="bangla_name">শরীয়তপুর</column>
+        </table>
+        <table name="districts">
+            <column name="id">6</column>
+            <column name="division_id">1</column>
+            <column name="name">Narayanganj</column>
+            <column name="bangla_name">নারায়ণগঞ্জ</column>
+        </table>
+        <table name="districts">
+            <column name="id">7</column>
+            <column name="division_id">1</column>
+            <column name="name">Tangail</column>
+            <column name="bangla_name">টাঙ্গাইল</column>
+        </table>
+        <table name="districts">
+            <column name="id">8</column>
+            <column name="division_id">1</column>
+            <column name="name">Kishoreganj</column>
+            <column name="bangla_name">কিশোরগঞ্জ</column>
+        </table>
+        <table name="districts">
+            <column name="id">9</column>
+            <column name="division_id">1</column>
+            <column name="name">Munshiganj</column>
+            <column name="bangla_name">মানিকগঞ্জ</column>
+        </table>
+        <table name="districts">
+            <column name="id">10</column>
+            <column name="division_id">1</column>
+            <column name="name">Rajbari</column>
+            <column name="bangla_name">রাজবাড়ী</column>
+        </table>
+        <table name="districts">
+            <column name="id">11</column>
+            <column name="division_id">1</column>
+            <column name="name">Madaripur</column>
+            <column name="bangla_name">মাদারীপুর</column>
+        </table>
+        <table name="districts">
+            <column name="id">12</column>
+            <column name="division_id">1</column>
+            <column name="name">Gopalganj</column>
+            <column name="bangla_name">গোপালগঞ্জ</column>
+        </table>
+        <table name="districts">
+            <column name="id">13</column>
+            <column name="division_id">1</column>
+            <column name="name">Faridpur</column>
+            <column name="bangla_name">ফরিদপুর</column>
+        </table>
+        <table name="districts">
+            <column name="id">14</column>
+            <column name="division_id">3</column>
+            <column name="name">Cumilla</column>
+            <column name="bangla_name">কুমিল্লা</column>
+        </table>
+        <table name="districts">
+            <column name="id">15</column>
+            <column name="division_id">3</column>
+            <column name="name">Feni</column>
+            <column name="bangla_name">ফেনী</column>
+        </table>
+        <table name="districts">
+            <column name="id">16</column>
+            <column name="division_id">3</column>
+            <column name="name">Brahmanbaria</column>
+            <column name="bangla_name">ব্রাহ্মণবাড়িয়া</column>
+        </table>
+        <table name="districts">
+            <column name="id">17</column>
+            <column name="division_id">3</column>
+            <column name="name">Rangamati</column>
+            <column name="bangla_name">রাঙ্গামাটি</column>
+        </table>
+        <table name="districts">
+            <column name="id">18</column>
+            <column name="division_id">3</column>
+            <column name="name">Noakhali</column>
+            <column name="bangla_name">নোয়াখালী</column>
+        </table>
+        <table name="districts">
+            <column name="id">19</column>
+            <column name="division_id">3</column>
+            <column name="name">Chandpur</column>
+            <column name="bangla_name">চাঁদপুর</column>
+        </table>
+        <table name="districts">
+            <column name="id">20</column>
+            <column name="division_id">3</column>
+            <column name="name">Lakshmipur</column>
+            <column name="bangla_name">লক্ষ্মীপুর</column>
+        </table>
+        <table name="districts">
+            <column name="id">21</column>
+            <column name="division_id">3</column>
+            <column name="name">Chattogram</column>
+            <column name="bangla_name">চট্টগ্রাম</column>
+        </table>
+        <table name="districts">
+            <column name="id">22</column>
+            <column name="division_id">3</column>
+            <column name="name">Coxsbazar</column>
+            <column name="bangla_name">কক্সবাজার</column>
+        </table>
+        <table name="districts">
+            <column name="id">23</column>
+            <column name="division_id">3</column>
+            <column name="name">Khagrachhari</column>
+            <column name="bangla_name">খাগড়াছড়ি</column>
+        </table>
+        <table name="districts">
+            <column name="id">24</column>
+            <column name="division_id">3</column>
+            <column name="name">Bandarban</column>
+            <column name="bangla_name">বান্দরবান</column>
+        </table>
+        <table name="districts">
+            <column name="id">25</column>
+            <column name="division_id">2</column>
+            <column name="name">Sirajganj</column>
+            <column name="bangla_name">সিরাজগঞ্জ</column>
+        </table>
+        <table name="districts">
+            <column name="id">26</column>
+            <column name="division_id">2</column>
+            <column name="name">Pabna</column>
+            <column name="bangla_name">পাবনা</column>
+        </table>
+        <table name="districts">
+            <column name="id">27</column>
+            <column name="division_id">2</column>
+            <column name="name">Bogura</column>
+            <column name="bangla_name">বগুড়া</column>
+        </table>
+        <table name="districts">
+            <column name="id">28</column>
+            <column name="division_id">2</column>
+            <column name="name">Rajshahi</column>
+            <column name="bangla_name">রাজশাহী</column>
+        </table>
+        <table name="districts">
+            <column name="id">29</column>
+            <column name="division_id">2</column>
+            <column name="name">Natore</column>
+            <column name="bangla_name">নাটোর</column>
+        </table>
+        <table name="districts">
+            <column name="id">30</column>
+            <column name="division_id">2</column>
+            <column name="name">Joypurhat</column>
+            <column name="bangla_name">জয়পুরহাট</column>
+        </table>
+        <table name="districts">
+            <column name="id">31</column>
+            <column name="division_id">2</column>
+            <column name="name">Chapainawabganj</column>
+            <column name="bangla_name">চাঁপাইনবাবগঞ্জ</column>
+        </table>
+        <table name="districts">
+            <column name="id">32</column>
+            <column name="division_id">2</column>
+            <column name="name">Naogaon</column>
+            <column name="bangla_name">নওগাঁ</column>
+        </table>
+        <table name="districts">
+            <column name="id">33</column>
+            <column name="division_id">4</column>
+            <column name="name">Jashore</column>
+            <column name="bangla_name">যশোর</column>
+        </table>
+        <table name="districts">
+            <column name="id">34</column>
+            <column name="division_id">4</column>
+            <column name="name">Satkhira</column>
+            <column name="bangla_name">সাতক্ষীরা</column>
+        </table>
+        <table name="districts">
+            <column name="id">35</column>
+            <column name="division_id">4</column>
+            <column name="name">Meherpur</column>
+            <column name="bangla_name">মেহেরপুর</column>
+        </table>
+        <table name="districts">
+            <column name="id">36</column>
+            <column name="division_id">4</column>
+            <column name="name">Narail</column>
+            <column name="bangla_name">নড়াইল</column>
+        </table>
+        <table name="districts">
+            <column name="id">37</column>
+            <column name="division_id">4</column>
+            <column name="name">Chuadanga</column>
+            <column name="bangla_name">চুয়াডাঙ্গা</column>
+        </table>
+        <table name="districts">
+            <column name="id">38</column>
+            <column name="division_id">4</column>
+            <column name="name">Kushtia</column>
+            <column name="bangla_name">কুষ্টিয়া</column>
+        </table>
+        <table name="districts">
+            <column name="id">39</column>
+            <column name="division_id">4</column>
+            <column name="name">Magura</column>
+            <column name="bangla_name">মাগুর</column>
+        </table>
+        <table name="districts">
+            <column name="id">40</column>
+            <column name="division_id">4</column>
+            <column name="name">Khulna</column>
+            <column name="bangla_name">খুলনা</column>
+        </table>
+        <table name="districts">
+            <column name="id">41</column>
+            <column name="division_id">4</column>
+            <column name="name">Bagerhat</column>
+            <column name="bangla_name">বাগেরহাট</column>
+        </table>
+        <table name="districts">
+            <column name="id">42</column>
+            <column name="division_id">4</column>
+            <column name="name">Jhenaidah</column>
+            <column name="bangla_name">ঝিনাইদহ</column>
+        </table>
+        <table name="districts">
+            <column name="id">43</column>
+            <column name="division_id">5</column>
+            <column name="name">Jhalakathi</column>
+            <column name="bangla_name">ঝালকাঠি</column>
+        </table>
+        <table name="districts">
+            <column name="id">44</column>
+            <column name="division_id">5</column>
+            <column name="name">Patuakhali</column>
+            <column name="bangla_name">পটুয়াখালী</column>
+        </table>
+        <table name="districts">
+            <column name="id">45</column>
+            <column name="division_id">5</column>
+            <column name="name">Pirojpur</column>
+            <column name="bangla_name">পিরোজপুর</column>
+        </table>
+        <table name="districts">
+            <column name="id">46</column>
+            <column name="division_id">5</column>
+            <column name="name">Barishal</column>
+            <column name="bangla_name">বরিশাল</column>
+        </table>
+        <table name="districts">
+            <column name="id">47</column>
+            <column name="division_id">5</column>
+            <column name="name">Bhola</column>
+            <column name="bangla_name">ভোলা</column>
+        </table>
+        <table name="districts">
+            <column name="id">48</column>
+            <column name="division_id">5</column>
+            <column name="name">Barguna</column>
+            <column name="bangla_name">বরগুনা</column>
+        </table>
+        <table name="districts">
+            <column name="id">49</column>
+            <column name="division_id">6</column>
+            <column name="name">Sylhet</column>
+            <column name="bangla_name">সিলেট</column>
+        </table>
+        <table name="districts">
+            <column name="id">50</column>
+            <column name="division_id">6</column>
+            <column name="name">Moulvibazar</column>
+            <column name="bangla_name">মৌলভীবাজার</column>
+        </table>
+        <table name="districts">
+            <column name="id">51</column>
+            <column name="division_id">6</column>
+            <column name="name">Habiganj</column>
+            <column name="bangla_name">হবিগঞ্জ</column>
+        </table>
+        <table name="districts">
+            <column name="id">52</column>
+            <column name="division_id">6</column>
+            <column name="name">Sunamganj</column>
+            <column name="bangla_name">সুনামগঞ্জ</column>
+        </table>
+        <table name="districts">
+            <column name="id">53</column>
+            <column name="division_id">7</column>
+            <column name="name">Panchagarh</column>
+            <column name="bangla_name">পঞ্চগড়</column>
+        </table>
+        <table name="districts">
+            <column name="id">54</column>
+            <column name="division_id">7</column>
+            <column name="name">Dinajpur</column>
+            <column name="bangla_name">দিনাজপুর</column>
+        </table>
+        <table name="districts">
+            <column name="id">55</column>
+            <column name="division_id">7</column>
+            <column name="name">Lalmonirhat</column>
+            <column name="bangla_name">লালমনিরহাট</column>
+        </table>
+        <table name="districts">
+            <column name="id">56</column>
+            <column name="division_id">7</column>
+            <column name="name">Nilphamari</column>
+            <column name="bangla_name">নীলফামারী</column>
+        </table>
+        <table name="districts">
+            <column name="id">57</column>
+            <column name="division_id">7</column>
+            <column name="name">Gaibandha</column>
+            <column name="bangla_name">গাইবান্ধা</column>
+        </table>
+        <table name="districts">
+            <column name="id">58</column>
+            <column name="division_id">7</column>
+            <column name="name">Thakurgaon</column>
+            <column name="bangla_name">ঠাকুরগাঁও</column>
+        </table>
+        <table name="districts">
+            <column name="id">59</column>
+            <column name="division_id">7</column>
+            <column name="name">Rangpur</column>
+            <column name="bangla_name">রংপুর</column>
+        </table>
+        <table name="districts">
+            <column name="id">60</column>
+            <column name="division_id">7</column>
+            <column name="name">Kurigram</column>
+            <column name="bangla_name">কুড়িগ্রাম</column>
+        </table>
+        <table name="districts">
+            <column name="id">61</column>
+            <column name="division_id">8</column>
+            <column name="name">Sherpur</column>
+            <column name="bangla_name">শেরপুর</column>
+        </table>
+        <table name="districts">
+            <column name="id">62</column>
+            <column name="division_id">8</column>
+            <column name="name">Mymensingh</column>
+            <column name="bangla_name">ময়মনসিংহ</column>
+        </table>
+        <table name="districts">
+            <column name="id">63</column>
+            <column name="division_id">8</column>
+            <column name="name">Jamalpur</column>
+            <column name="bangla_name">জামালপুর</column>
+        </table>
+        <table name="districts">
+            <column name="id">64</column>
+            <column name="division_id">8</column>
+            <column name="name">Netrokona</column>
+            <column name="bangla_name">নেত্রকোণা</column>
+        </table>
+    </database>
+</pma_xml_export>

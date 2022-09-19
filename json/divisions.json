@@ -1,0 +1,50 @@
+[
+	{
+		"id": "1",
+		"country_id": "1",
+		"name": "Dhaka",
+		"bangla_name": "ঢাকা"
+	},
+	{
+		"id": "2",
+		"country_id": "1",
+		"name": "Rajshahi",
+		"bangla_name": "রাজশাহী"
+	},
+	{
+		"id": "3",
+		"country_id": "1",
+		"name": "Chattogram",
+		"bangla_name": "চট্টগ্রাম"
+	},
+	{
+		"id": "4",
+		"country_id": "1",
+		"name": "Khulna",
+		"bangla_name": "খুলনা"
+	},
+	{
+		"id": "5",
+		"country_id": "1",
+		"name": "Barishal",
+		"bangla_name": "বরিশাল"
+	},
+	{
+		"id": "6",
+		"country_id": "1",
+		"name": "Sylhet",
+		"bangla_name": "সিলেট"
+	},
+	{
+		"id": "7",
+		"country_id": "1",
+		"name": "Rangpur",
+		"bangla_name": "রংপুর"
+	},
+	{
+		"id": "8",
+		"country_id": "1",
+		"name": "Mymensingh",
+		"bangla_name": "ময়মনসিংহ"
+	}
+]

@@ -1,0 +1,386 @@
+[
+	{
+		"id": "1",
+		"division_id": "1",
+		"name": "Dhaka",
+		"bangla_name": "ঢাকা"
+	},
+	{
+		"id": "2",
+		"division_id": "1",
+		"name": "Manikganj",
+		"bangla_name": "মানিকগঞ্জ"
+	},
+	{
+		"id": "3",
+		"division_id": "1",
+		"name": "Narsingdi",
+		"bangla_name": "নরসিংদী"
+	},
+	{
+		"id": "4",
+		"division_id": "1",
+		"name": "Gazipur",
+		"bangla_name": "গাজীপুর"
+	},
+	{
+		"id": "5",
+		"division_id": "1",
+		"name": "Shariatpur",
+		"bangla_name": "শরীয়তপুর"
+	},
+	{
+		"id": "6",
+		"division_id": "1",
+		"name": "Narayanganj",
+		"bangla_name": "নারায়ণগঞ্জ"
+	},
+	{
+		"id": "7",
+		"division_id": "1",
+		"name": "Tangail",
+		"bangla_name": "টাঙ্গাইল"
+	},
+	{
+		"id": "8",
+		"division_id": "1",
+		"name": "Kishoreganj",
+		"bangla_name": "কিশোরগঞ্জ"
+	},
+	{
+		"id": "9",
+		"division_id": "1",
+		"name": "Munshiganj",
+		"bangla_name": "মানিকগঞ্জ"
+	},
+	{
+		"id": "10",
+		"division_id": "1",
+		"name": "Rajbari",
+		"bangla_name": "রাজবাড়ী"
+	},
+	{
+		"id": "11",
+		"division_id": "1",
+		"name": "Madaripur",
+		"bangla_name": "মাদারীপুর"
+	},
+	{
+		"id": "12",
+		"division_id": "1",
+		"name": "Gopalganj",
+		"bangla_name": "গোপালগঞ্জ"
+	},
+	{
+		"id": "13",
+		"division_id": "1",
+		"name": "Faridpur",
+		"bangla_name": "ফরিদপুর"
+	},
+	{
+		"id": "14",
+		"division_id": "1",
+		"name": "Cumilla",
+		"bangla_name": "কুমিল্লা"
+	},
+	{
+		"id": "15",
+		"division_id": "1",
+		"name": "Feni",
+		"bangla_name": "ফেনী"
+	},
+	{
+		"id": "16",
+		"division_id": "1",
+		"name": "Brahmanbaria",
+		"bangla_name": "ব্রাহ্মণবাড়িয়া"
+	},
+	{
+		"id": "17",
+		"division_id": "1",
+		"name": "Rangamati",
+		"bangla_name": "রাঙ্গামাটি"
+	},
+	{
+		"id": "18",
+		"division_id": "1",
+		"name": "Noakhali",
+		"bangla_name": "নোয়াখালী"
+	},
+	{
+		"id": "19",
+		"division_id": "1",
+		"name": "Chandpur",
+		"bangla_name": "চাঁদপুর"
+	},
+	{
+		"id": "20",
+		"division_id": "1",
+		"name": "Lakshmipur",
+		"bangla_name": "লক্ষ্মীপুর"
+	},
+	{
+		"id": "21",
+		"division_id": "1",
+		"name": "Chattogram",
+		"bangla_name": "চট্টগ্রাম"
+	},
+	{
+		"id": "22",
+		"division_id": "1",
+		"name": "Coxsbazar",
+		"bangla_name": "কক্সবাজার"
+	},
+	{
+		"id": "23",
+		"division_id": "1",
+		"name": "Khagrachhari",
+		"bangla_name": "খাগড়াছড়ি"
+	},
+	{
+		"id": "24",
+		"division_id": "1",
+		"name": "Bandarban",
+		"bangla_name": "বান্দরবান"
+	},
+	{
+		"id": "25",
+		"division_id": "1",
+		"name": "Sirajganj",
+		"bangla_name": "সিরাজগঞ্জ"
+	},
+	{
+		"id": "26",
+		"division_id": "1",
+		"name": "Pabna",
+		"bangla_name": "পাবনা"
+	},
+	{
+		"id": "27",
+		"division_id": "1",
+		"name": "Bogura",
+		"bangla_name": "বগুড়া"
+	},
+	{
+		"id": "28",
+		"division_id": "1",
+		"name": "Rajshahi",
+		"bangla_name": "রাজশাহী"
+	},
+	{
+		"id": "29",
+		"division_id": "1",
+		"name": "Natore",
+		"bangla_name": "নাটোর"
+	},
+	{
+		"id": "30",
+		"division_id": "1",
+		"name": "Joypurhat",
+		"bangla_name": "জয়পুরহাট"
+	},
+	{
+		"id": "31",
+		"division_id": "1",
+		"name": "Chapainawabganj",
+		"bangla_name": "চাঁপাইনবাবগঞ্জ"
+	},
+	{
+		"id": "32",
+		"division_id": "1",
+		"name": "Naogaon",
+		"bangla_name": "নওগাঁ"
+	},
+	{
+		"id": "33",
+		"division_id": "1",
+		"name": "Jashore",
+		"bangla_name": "যশোর"
+	},
+	{
+		"id": "34",
+		"division_id": "1",
+		"name": "Satkhira",
+		"bangla_name": "সাতক্ষীরা"
+	},
+	{
+		"id": "35",
+		"division_id": "1",
+		"name": "Meherpur",
+		"bangla_name": "মেহেরপুর"
+	},
+	{
+		"id": "36",
+		"division_id": "1",
+		"name": "Narail",
+		"bangla_name": "নড়াইল"
+	},
+	{
+		"id": "37",
+		"division_id": "1",
+		"name": "Chuadanga",
+		"bangla_name": "চুয়াডাঙ্গা"
+	},
+	{
+		"id": "38",
+		"division_id": "1",
+		"name": "Kushtia",
+		"bangla_name": "কুষ্টিয়া"
+	},
+	{
+		"id": "39",
+		"division_id": "1",
+		"name": "Magura",
+		"bangla_name": "মাগুর"
+	},
+	{
+		"id": "40",
+		"division_id": "1",
+		"name": "Khulna",
+		"bangla_name": "খুলনা"
+	},
+	{
+		"id": "41",
+		"division_id": "1",
+		"name": "Bagerhat",
+		"bangla_name": "বাগেরহাট"
+	},
+	{
+		"id": "42",
+		"division_id": "1",
+		"name": "Jhenaidah",
+		"bangla_name": "ঝিনাইদহ"
+	},
+	{
+		"id": "43",
+		"division_id": "1",
+		"name": "Jhalakathi",
+		"bangla_name": "ঝালকাঠি"
+	},
+	{
+		"id": "44",
+		"division_id": "1",
+		"name": "Patuakhali",
+		"bangla_name": "পটুয়াখালী"
+	},
+	{
+		"id": "45",
+		"division_id": "1",
+		"name": "Pirojpur",
+		"bangla_name": "পিরোজপুর"
+	},
+	{
+		"id": "46",
+		"division_id": "1",
+		"name": "Barishal",
+		"bangla_name": "বরিশাল"
+	},
+	{
+		"id": "47",
+		"division_id": "1",
+		"name": "Bhola",
+		"bangla_name": "ভোলা"
+	},
+	{
+		"id": "48",
+		"division_id": "1",
+		"name": "Barguna",
+		"bangla_name": "বরগুনা"
+	},
+	{
+		"id": "49",
+		"division_id": "1",
+		"name": "Sylhet",
+		"bangla_name": "সিলেট"
+	},
+	{
+		"id": "50",
+		"division_id": "1",
+		"name": "Moulvibazar",
+		"bangla_name": "মৌলভীবাজার"
+	},
+	{
+		"id": "51",
+		"division_id": "1",
+		"name": "Habiganj",
+		"bangla_name": "হবিগঞ্জ"
+	},
+	{
+		"id": "52",
+		"division_id": "1",
+		"name": "Sunamganj",
+		"bangla_name": "সুনামগঞ্জ"
+	},
+	{
+		"id": "53",
+		"division_id": "1",
+		"name": "Panchagarh",
+		"bangla_name": "পঞ্চগড়"
+	},
+	{
+		"id": "54",
+		"division_id": "1",
+		"name": "Dinajpur",
+		"bangla_name": "দিনাজপুর"
+	},
+	{
+		"id": "55",
+		"division_id": "1",
+		"name": "Lalmonirhat",
+		"bangla_name": "লালমনিরহাট"
+	},
+	{
+		"id": "56",
+		"division_id": "1",
+		"name": "Nilphamari",
+		"bangla_name": "নীলফামারী"
+	},
+	{
+		"id": "57",
+		"division_id": "1",
+		"name": "Gaibandha",
+		"bangla_name": "গাইবান্ধা"
+	},
+	{
+		"id": "58",
+		"division_id": "1",
+		"name": "Thakurgaon",
+		"bangla_name": "ঠাকুরগাঁও"
+	},
+	{
+		"id": "59",
+		"division_id": "1",
+		"name": "Rangpur",
+		"bangla_name": "রংপুর"
+	},
+	{
+		"id": "60",
+		"division_id": "1",
+		"name": "Kurigram",
+		"bangla_name": "কুড়িগ্রাম"
+	},
+	{
+		"id": "61",
+		"division_id": "1",
+		"name": "Sherpur",
+		"bangla_name": "শেরপুর"
+	},
+	{
+		"id": "62",
+		"division_id": "1",
+		"name": "Mymensingh",
+		"bangla_name": "ময়মনসিংহ"
+	},
+	{
+		"id": "63",
+		"division_id": "1",
+		"name": "Jamalpur",
+		"bangla_name": "জামালপুর"
+	},
+	{
+		"id": "64",
+		"division_id": "1",
+		"name": "Netrokona",
+		"bangla_name": "নেত্রকোণা"
+	}
+]
